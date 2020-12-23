@@ -1,5 +1,5 @@
 ---
-id: bashlanghuch
+id: getting-started
 title: Bashlanghuch
 permalink: docs/getting-started.html
 next: add-react-to-a-website.html
@@ -18,19 +18,19 @@ redirect_from:
   - "docs/environments.html"
 ---
 
-This page is an overview of the React documentation and related resources.
+Bu bet React höjjiti we munasiwetlik menbelerning omumiy ehwali.
 
-**React** is a JavaScript library for building user interfaces. Learn what React is all about on [our homepage](/) or [in the tutorial](/tutorial/tutorial.html).
+**React** React bulsa user interfaces qurush üqün hazirlan`ghan JavaScript kütüpxanisi buldu. React ögünüshke alaqidar hemme matiriyallar [Bash Bet](/) weya [Derisliklerde](/tutorial/tutorial.html).
 
 ---
 
-- [Try React](#try-react)
-- [Learn React](#learn-react)
-- [Staying Informed](#staying-informed)
+- [React`ni Sinap Bëqing](#try-react)
+- [React`ni Ögining](#learn-react)
+- [Xewerdar Bolung](#staying-informed)
 - [Versioned Documentation](#versioned-documentation)
 - [Something Missing?](#something-missing)
 
-## Try React {#try-react}
+## React`ni Sinap Bëqing {#try-react}
 
 React has been designed from the start for gradual adoption, and **you can use as little or as much React as you need.** Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
 
@@ -50,7 +50,7 @@ When starting a React project, a [simple HTML page with script tags](/docs/add-r
 
 As your application grows, you might want to consider a more integrated setup. There are several JavaScript toolchains we recommend for larger applications. Each of them can work with little to no configuration and lets you take full advantage of the rich React ecosystem. [Learn how.](/docs/create-a-new-react-app.html)
 
-## Learn React {#learn-react}
+## React`ni Ögining {#learn-react}
 
 People come to React from different backgrounds and with different learning styles. Whether you prefer a more theoretical or a practical approach, we hope you'll find this section helpful.
 
@@ -109,7 +109,7 @@ This documentation section is useful when you want to learn more details about a
 
 The [glossary](/docs/glossary.html) contains an overview of the most common terms you'll see in the React documentation. There is also a FAQ section dedicated to short questions and answers about common topics, including [making AJAX requests](/docs/faq-ajax.html), [component state](/docs/faq-state.html), and [file structure](/docs/faq-structure.html).
 
-## Staying Informed {#staying-informed}
+## Xewerdar Bolung {#staying-informed}
 
 The [React blog](/blog/) is the official source for the updates from the React team. Anything important, including release notes or deprecation notices, will be posted there first.
 
