@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: Bashlanghuch
+title: Bashlan`ghuch
 permalink: docs/getting-started.html
 next: add-react-to-a-website.html
 redirect_from:
@@ -27,12 +27,12 @@ Bu bet React höjjiti we munasiwetlik menbelerning omumiy ehwali.
 - [React`ni Sinap Bëqing](#try-react)
 - [React`ni Ögining](#learn-react)
 - [Xewerdar Bolung](#staying-informed)
-- [Versioned Documentation](#versioned-documentation)
-- [Something Missing?](#something-missing)
+- [Neshirdiki Höjjetler](#versioned-documentation)
+- [Bir Nerse Kemmu?](#something-missing)
 
 ## React`ni Sinap Bëqing {#try-react}
 
-React has been designed from the start for gradual adoption, and **you can use as little or as much React as you need.** Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
+React bashtin-bashlapla tedriji qullinish üqün lahiyelengen, we **siz ihtiyaji`ngizgha qarita az weya jiq ishletsi`ngiz buldu.**  Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
 
 ### Online Playgrounds {#online-playgrounds}
 
